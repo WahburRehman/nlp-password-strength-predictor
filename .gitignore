@@ -1,0 +1,14 @@
+# Ignore Python virtual environment files
+venv/
+.env
+
+# Ignore Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+
+
+# Ignore model files
+*.pkl
+
+# Ignore macOS system files
+.DS_Store
+data/.DS_Store
