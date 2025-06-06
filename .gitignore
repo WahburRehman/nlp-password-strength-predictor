@@ -12,3 +12,6 @@ venv/
 # Ignore macOS system files
 .DS_Store
 data/.DS_Store
+
+__pycache__/
+*.pyc
